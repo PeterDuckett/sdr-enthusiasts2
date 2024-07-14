@@ -23,7 +23,7 @@ version: "v4.0.3"
 # follow Semantic Versioning. They should reflect the version the application is using.
 # It is recommended to use it with quotes.
 # renovate: image=ghcr.io/sdr-enthusiasts/docker-readsb-protobuf
-appVersion: "v4.0.3_nohealthcheck"
+appVersion: "v4.0.4_nohealthcheck"
 
 dependencies:
   - name: common
