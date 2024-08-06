@@ -23,7 +23,7 @@ version: "1.0.44-0"
 # follow Semantic Versioning. They should reflect the version the application is using.
 # It is recommended to use it with quotes.
 # renovate: image=ghcr.io/sdr-enthusiasts/docker-flightradar24
-appVersion: "1.0.44-0_nohealthcheck"
+appVersion: "1.0.48-0_nohealthcheck"
 
 dependencies:
   - name: common
