@@ -23,7 +23,7 @@ version: "v9.0"
 # follow Semantic Versioning. They should reflect the version the application is using.
 # It is recommended to use it with quotes.
 # renovate: image=ghcr.io/sdr-enthusiasts/docker-piaware
-appVersion: "v9.0_nohealthcheck"
+appVersion: "v10.0_nohealthcheck"
 
 dependencies:
   - name: common
