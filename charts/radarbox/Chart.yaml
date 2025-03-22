@@ -16,14 +16,14 @@ type: application
 # to the chart and its templates, including the app version.
 # Versions are expected to follow Semantic Versioning (https://semver.org/)
 # renovate: image=ghcr.io/sdr-enthusiasts/docker-radarbox
-version: "v1.0.8-20220708190411"
+version: "v1.0.11-20241022110000"
 
 # This is the version number of the application being deployed. This version number should be
 # incremented each time you make changes to the application. Versions are not expected to
 # follow Semantic Versioning. They should reflect the version the application is using.
 # It is recommended to use it with quotes.
 # renovate: image=ghcr.io/sdr-enthusiasts/docker-radarbox
-appVersion: "v1.0.8-20220708190411"
+appVersion: "v1.0.11-20241022110000"
 
 icon: https://www.adsbexchange.com/wp-content/uploads/cropped-Stealth-48px.png
 

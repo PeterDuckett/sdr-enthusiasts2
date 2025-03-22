@@ -8,7 +8,7 @@ image:
   repository: ghcr.io/sdr-enthusiasts/docker-radarbox
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v1.0.8-20220708190411"
+  tag: "v1.0.11-20241022110000"
 
 imagePullSecrets: []
 nameOverride: "radarbox"
