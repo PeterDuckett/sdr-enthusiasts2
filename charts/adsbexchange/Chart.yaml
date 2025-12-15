@@ -23,7 +23,7 @@ version: "20231106.1619"
 # follow Semantic Versioning. They should reflect the version the application is using.
 # It is recommended to use it with quotes.
 # renovate: image=ghcr.io/sdr-enthusiasts/docker-adsbexchange
-appVersion: "20231106.1619_nohealthcheck"
+appVersion: "20231229.0710_nohealthcheck"
 
 icon: https://www.adsbexchange.com/wp-content/uploads/cropped-Stealth-48px.png
 
